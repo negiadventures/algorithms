@@ -1,3 +1,5 @@
+# Find connected components in a graph
+
 def explore(u, comp):
     marked.append(u)
     components[u] = comp
