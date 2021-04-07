@@ -1,3 +1,5 @@
+# Explore and mark nodes in a graph
+
 def explore(u):
     marked.append(u)
     for e in edges:
