@@ -1,3 +1,5 @@
+# Check if a graph is connected
+
 def explore(u):
     marked.append(u)
     for e in edges:
